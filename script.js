@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", e => {
   .addEventListener("click", e => console.log("Reggae, Reggae!"));
 })
 
-let values =document.getElementById('hidden-div');
+let values =document.getElementById('#hidden-div');
 
 values.addEventListener('keydown',e=>{
    (e.innerHtml='301')
