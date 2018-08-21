@@ -1,8 +1,7 @@
 document.addEventListener("DOMContentLoaded", e => {
   document.querySelector("body")
   .addEventListener("click", e => console.log("Reggae, Reggae!"));
-})
-
 let values =document.getElementById('hidden-div');
 
-values.innerHTML='301';
+values.innerHTML='301';})
+
