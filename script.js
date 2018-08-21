@@ -5,4 +5,4 @@ document.addEventListener("DOMContentLoaded", e => {
 
 let values =document.getElementById('hidden-div');
 
-values.innerHTML='301'
+values.innerHTML='301';
