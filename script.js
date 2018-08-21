@@ -4,3 +4,8 @@ document.addEventListener("DOMContentLoaded", e => {
 })
 
 let values =document.getElementById('hidden-div');
+
+values.addEventListener('keydown',e=>{
+   (e.innerHtml='301')
+  
+})
