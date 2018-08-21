@@ -3,3 +3,4 @@ document.addEventListener("DOMContentLoaded", e => {
   .addEventListener("click", e => console.log("Reggae, Reggae!"));
 })
 
+let values =document.
